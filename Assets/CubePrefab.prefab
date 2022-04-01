@@ -13,10 +13,10 @@ GameObject:
   - component: {fileID: 4731863961292056112}
   - component: {fileID: 4731863961292056115}
   - component: {fileID: 4731863961292056114}
-  - component: {fileID: -7897076099044406771}
+  - component: {fileID: 6055460747062713122}
   m_Layer: 0
   m_Name: CubePrefab
-  m_TagString: Untagged
+  m_TagString: BlockTag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fa80558105e2714e8c62434b0a80cda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!82 &-7897076099044406771
+--- !u!82 &6055460747062713122
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
